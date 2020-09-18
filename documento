@@ -1,0 +1,7 @@
+estartar a aplicação = npm run dev
+
+para rodar o  mongodb com o docker = sudo docker start mongodb
+
+para o robo3t = porta localhost 27017 modopadrão
+
+porta da aplicação = localhost 3001
